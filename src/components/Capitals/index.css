@@ -1,0 +1,36 @@
+/* Write your CSS here */
+
+.bg-container {
+  height: 100vh;
+  background-color: #93c5fd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.select-container {
+  display: flex;
+}
+.question{
+  margin-left: 5px;
+}
+.capital-select {
+  
+  font-weight: bold;
+}
+.country {
+  font-weight: bold;
+  color: #000000;
+}
+.sm-container {
+  background-color: #ffffff;
+  height: 200px;
+  width: 300px;
+  border-radius: 10px;
+  padding-left: 5px;
+}
+
+.heading {
+  padding-top: 5px;
+  font-size: 25px;
+  text-align: center;
+}
